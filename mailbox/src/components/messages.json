@@ -1,0 +1,44 @@
+ [  
+   {  
+    "id": "1",
+    "name": "John",
+     "subject": "Hi Again",  
+     "content": "Just wanted to check on you",  
+     "isRead": true  
+   },  
+   {  
+     "id": "2",
+     "name": "Wilson",
+     "subject": "Hi Friend",  
+     "content": "Just wanted to let you know I am good",  
+     "isRead": false  
+   },
+   {  
+     "id": "3",
+     "name": "Chelsea",
+     "subject": "How are you",  
+     "content": "Just wanted to check on you and the family are doing bro",  
+     "isRead": true  
+   }, 
+   {  
+     "id": "4",
+     "name": "Mark",
+     "subject": "Call me",  
+     "content": "Hey there can you call me as soon as possible so that we can go through the details of the meeting",  
+     "isRead": true  
+   },
+   {  
+     "id": "5",
+     "name": "Doctor Lee",
+     "subject": "Results",  
+     "content": "Hie there, just a reminder that your results are ready for collection",  
+     "isRead": true  
+   },
+   {  
+     "id": "6",
+     "name": "Susan",
+     "subject": "Appointment",  
+     "content": "Good afternoon Sir, please confirm your Friday appointment",  
+     "isRead": true  
+   }
+ ]  
